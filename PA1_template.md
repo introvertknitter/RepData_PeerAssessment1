@@ -1,7 +1,7 @@
 ---
 title: "Activity analysis for Reproducible Research Project 1"
 author: "introvert_knitter"
-date: "Sunday, September 20, 2015"
+date: "Sunday, November 16, 2015"
 output: html_document
 ---
 
