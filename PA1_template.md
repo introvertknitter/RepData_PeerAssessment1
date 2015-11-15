@@ -1,5 +1,4 @@
 ---
-<<<<<<< HEAD
 title: "Activity analysis for Reproducible Research Project 1"
 author: "introvert_knitter"
 date: "Sunday, September 20, 2015"
@@ -49,10 +48,6 @@ This is the distribution of the total number of steps taken each day:
 
 ```r
 library(plyr)
-```
-
-```
-## Warning: package 'plyr' was built under R version 3.1.3
 ```
 
 
@@ -177,29 +172,4 @@ with(subset(summary_interval_daytype, daytype== "Weekend"), plot(interval, avera
 ```
 
 ![plot of chunk unnamed-chunk-11](figure/unnamed-chunk-11-1.png) 
-=======
-title: "Reproducible Research: Peer Assessment 1"
-output: 
-  html_document:
-    keep_md: true
----
 
-
-## Loading and preprocessing the data
-
-
-
-## What is mean total number of steps taken per day?
-
-
-
-## What is the average daily activity pattern?
-
-
-
-## Imputing missing values
-
-
-
-## Are there differences in activity patterns between weekdays and weekends?
->>>>>>> 80edf39c3bb508fee88e3394542f967dd3fd3270
